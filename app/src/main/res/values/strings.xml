@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ktx Playground</string>
+    <string name="set_preferences_button">Set Preferences</string>
+    <string name="is_user_active">Is user active?</string>
+    <string name="not_applicable">N/A</string>
+    <string name="user_name_title">User Name</string>
 </resources>

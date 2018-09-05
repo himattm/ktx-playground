@@ -20,3 +20,5 @@ h
 8app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml,6\e\6ec7d34b130497a10dc92abcde9b313d370a89df
 h
 8app/src/main/res/drawable-v24/ic_launcher_foreground.xml,0\7\078508c831007ccb3938b355f0d30a8368f99a8d
+y
+Iapp/src/main/java/io/github/matthewcmckenna/ktxplayground/AnimationKtx.kt,7\1\719c637b25a0879876f74413c430a8f0f5e523c1
