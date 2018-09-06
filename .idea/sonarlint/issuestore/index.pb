@@ -22,3 +22,7 @@ h
 8app/src/main/res/drawable-v24/ic_launcher_foreground.xml,0\7\078508c831007ccb3938b355f0d30a8368f99a8d
 y
 Iapp/src/main/java/io/github/matthewcmckenna/ktxplayground/AnimationKtx.kt,7\1\719c637b25a0879876f74413c430a8f0f5e523c1
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
