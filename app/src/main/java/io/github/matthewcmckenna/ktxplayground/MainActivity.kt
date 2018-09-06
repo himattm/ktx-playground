@@ -13,7 +13,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         go_to_shared_prefs_button.setOnClickListener {
-            startActivityForResult(Intent(this, SharedPreferencesActivity::class.java), 0)
+            startActivity(Intent(this, SharedPreferencesActivity::class.java))
+        }
+
+        go_to_animation_button.setOnClickListener {
+            startActivity(Intent(this, AnimationActivity::class.java))
         }
     }
 }
